@@ -2,18 +2,9 @@
 
 In this assignment, you're going put together everything you've learned about listening to DOM events and manipulating the DOM with jQuery to build a dynamic Todo List application.
 
-##Getting Started
-
-* Fork and clone this repository
-* Run `npm install` to install dependencies
-  * `npm start` - start the BrowserSync server
-  * `npm run lint:css` - lint CSS
-  * `npm run lint:js` - lint JS
-* Load jQuery on the page by using a CDN link. See below.
-
 ####Loading Dependencies
 
-For this project you should be using jQuery. Either use the link from the [Google Developer Libraries](https://developers.google.com/speed/libraries/#jquery) or the link below before the `</body>` tag.
+For this project you should be using jQuery. Either use the link from the [Google Developer Libraries](https://developers.google.com/speed/libraries/#jquery) or the link below **before** the `</body>` tag.
 
 ```html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
@@ -28,7 +19,7 @@ For this project you should be using jQuery. Either use the link from the [Googl
 
 ##Deliverable
 
-A working todo list. No sample screenshot this time.
+A working todo list.
 
 ##Bonuses
 
